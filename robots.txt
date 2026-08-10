@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Host: sloty-bez-verifikacii.github.io
+Sitemap: https://sloty-bez-verifikacii.github.io/sitemap.xml
